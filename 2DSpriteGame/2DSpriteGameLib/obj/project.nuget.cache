@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TdOTqRvz18ctn1ar2ALsMuX9sBsh6KyLMgJ7esyuAVvkY9y+hosge+8sw9ba2Yqteh1Fap6ScCz6WNWY9bDh6A==",
+  "success": true,
+  "projectFilePath": "D:\\Styding\\TETRIS\\2DSpriteGame\\2DSpriteGameLib\\2DSpriteGameLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\XXX\\.nuget\\packages\\sharpdx\\4.2.0\\sharpdx.4.2.0.nupkg.sha512",
+    "C:\\Users\\XXX\\.nuget\\packages\\sharpdx.direct2d1\\4.2.0\\sharpdx.direct2d1.4.2.0.nupkg.sha512",
+    "C:\\Users\\XXX\\.nuget\\packages\\sharpdx.dxgi\\4.2.0\\sharpdx.dxgi.4.2.0.nupkg.sha512",
+    "C:\\Users\\XXX\\.nuget\\packages\\sharpdx.mathematics\\4.2.0\\sharpdx.mathematics.4.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,182 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Styding\\TETRIS\\2DSpriteGame\\Tests\\Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\Styding\\TETRIS\\2DSpriteGame\\2DSpriteGameLib\\2DSpriteGameLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Styding\\TETRIS\\2DSpriteGame\\2DSpriteGameLib\\2DSpriteGameLib.csproj",
+        "projectName": "2DSpriteGameLib",
+        "projectPath": "D:\\Styding\\TETRIS\\2DSpriteGame\\2DSpriteGameLib\\2DSpriteGameLib.csproj",
+        "packagesPath": "C:\\Users\\XXX\\.nuget\\packages\\",
+        "outputPath": "D:\\Styding\\TETRIS\\2DSpriteGame\\2DSpriteGameLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\XXX\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "projectReferences": {
+              "D:\\Styding\\TETRIS\\2DSpriteGame\\GameLib\\GameLib.csproj": {
+                "projectPath": "D:\\Styding\\TETRIS\\2DSpriteGame\\GameLib\\GameLib.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "dependencies": {
+            "SharpDX": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "SharpDX.Direct2D1": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "SharpDX.Mathematics": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\Styding\\TETRIS\\2DSpriteGame\\GameLib\\GameLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Styding\\TETRIS\\2DSpriteGame\\GameLib\\GameLib.csproj",
+        "projectName": "GameLib",
+        "projectPath": "D:\\Styding\\TETRIS\\2DSpriteGame\\GameLib\\GameLib.csproj",
+        "packagesPath": "C:\\Users\\XXX\\.nuget\\packages\\",
+        "outputPath": "D:\\Styding\\TETRIS\\2DSpriteGame\\GameLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\XXX\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "dependencies": {
+            "SharpDX": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "SharpDX.Mathematics": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\Styding\\TETRIS\\2DSpriteGame\\Tests\\Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Styding\\TETRIS\\2DSpriteGame\\Tests\\Tests.csproj",
+        "projectName": "Tests",
+        "projectPath": "D:\\Styding\\TETRIS\\2DSpriteGame\\Tests\\Tests.csproj",
+        "packagesPath": "C:\\Users\\XXX\\.nuget\\packages\\",
+        "outputPath": "D:\\Styding\\TETRIS\\2DSpriteGame\\Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\XXX\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "projectReferences": {
+              "D:\\Styding\\TETRIS\\2DSpriteGame\\2DSpriteGameLib\\2DSpriteGameLib.csproj": {
+                "projectPath": "D:\\Styding\\TETRIS\\2DSpriteGame\\2DSpriteGameLib\\2DSpriteGameLib.csproj"
+              },
+              "D:\\Styding\\TETRIS\\2DSpriteGame\\GameLib\\GameLib.csproj": {
+                "projectPath": "D:\\Styding\\TETRIS\\2DSpriteGame\\GameLib\\GameLib.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

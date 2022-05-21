@@ -1,0 +1,120 @@
+C:\ZeVS\Projects\2DSpriteGame\2DSpriteGameDX\bin\Debug\dash.bmp
+C:\ZeVS\Projects\2DSpriteGame\2DSpriteGameDX\bin\Debug\2DSpriteGameDX.exe.config
+C:\ZeVS\Projects\2DSpriteGame\2DSpriteGameDX\bin\Debug\2DSpriteGameDX.exe
+C:\ZeVS\Projects\2DSpriteGame\2DSpriteGameDX\bin\Debug\2DSpriteGameDX.pdb
+C:\ZeVS\Projects\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.Desktop.dll
+C:\ZeVS\Projects\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.Direct2D1.dll
+C:\ZeVS\Projects\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.DirectInput.dll
+C:\ZeVS\Projects\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.dll
+C:\ZeVS\Projects\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.DXGI.dll
+C:\ZeVS\Projects\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.Mathematics.dll
+C:\ZeVS\Projects\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.pdb
+C:\ZeVS\Projects\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.Desktop.pdb
+C:\ZeVS\Projects\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.Desktop.xml
+C:\ZeVS\Projects\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.Direct2D1.pdb
+C:\ZeVS\Projects\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.Direct2D1.xml
+C:\ZeVS\Projects\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.DirectInput.pdb
+C:\ZeVS\Projects\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.DirectInput.xml
+C:\ZeVS\Projects\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.DXGI.pdb
+C:\ZeVS\Projects\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.DXGI.xml
+C:\ZeVS\Projects\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.Mathematics.pdb
+C:\ZeVS\Projects\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.Mathematics.xml
+C:\ZeVS\Projects\2DSpriteGame\2DSpriteGameDX\obj\Debug\_2DSpriteGameDX.Properties.Resources.resources
+C:\ZeVS\Projects\2DSpriteGame\2DSpriteGameDX\obj\Debug\2DSpriteGameDX.csproj.GenerateResource.cache
+C:\ZeVS\Projects\2DSpriteGame\2DSpriteGameDX\obj\Debug\2DSpriteGameDX.csproj.CoreCompileInputs.cache
+C:\ZeVS\Projects\2DSpriteGame\2DSpriteGameDX\obj\Debug\2DSpriteGameDX.csproj.CopyComplete
+C:\ZeVS\Projects\2DSpriteGame\2DSpriteGameDX\obj\Debug\2DSpriteGameDX.exe
+C:\ZeVS\Projects\2DSpriteGame\2DSpriteGameDX\obj\Debug\2DSpriteGameDX.pdb
+C:\ZeVS\Projects\2DSpriteGame\2DSpriteGameDX\bin\Debug\background.bmp
+C:\ZeVS\Projects\2DSpriteGame\2DSpriteGameDX\obj\Debug\2DSpriteGameDX.csprojAssemblyReference.cache
+D:\Styding\4 семестр\CourseProject\2DSpriteGame\2DSpriteGameDX\bin\Debug\background.bmp
+D:\Styding\4 семестр\CourseProject\2DSpriteGame\2DSpriteGameDX\bin\Debug\dash.bmp
+D:\Styding\4 семестр\CourseProject\2DSpriteGame\2DSpriteGameDX\bin\Debug\2DSpriteGameDX.exe.config
+D:\Styding\4 семестр\CourseProject\2DSpriteGame\2DSpriteGameDX\bin\Debug\2DSpriteGameDX.exe
+D:\Styding\4 семестр\CourseProject\2DSpriteGame\2DSpriteGameDX\bin\Debug\2DSpriteGameDX.pdb
+D:\Styding\4 семестр\CourseProject\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.Desktop.dll
+D:\Styding\4 семестр\CourseProject\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.Direct2D1.dll
+D:\Styding\4 семестр\CourseProject\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.DirectInput.dll
+D:\Styding\4 семестр\CourseProject\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.dll
+D:\Styding\4 семестр\CourseProject\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.DXGI.dll
+D:\Styding\4 семестр\CourseProject\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.Mathematics.dll
+D:\Styding\4 семестр\CourseProject\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.pdb
+D:\Styding\4 семестр\CourseProject\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.Desktop.pdb
+D:\Styding\4 семестр\CourseProject\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.Desktop.xml
+D:\Styding\4 семестр\CourseProject\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.Direct2D1.pdb
+D:\Styding\4 семестр\CourseProject\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.Direct2D1.xml
+D:\Styding\4 семестр\CourseProject\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.DirectInput.pdb
+D:\Styding\4 семестр\CourseProject\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.DirectInput.xml
+D:\Styding\4 семестр\CourseProject\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.DXGI.pdb
+D:\Styding\4 семестр\CourseProject\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.DXGI.xml
+D:\Styding\4 семестр\CourseProject\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.Mathematics.pdb
+D:\Styding\4 семестр\CourseProject\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.Mathematics.xml
+D:\Styding\4 семестр\CourseProject\2DSpriteGame\2DSpriteGameDX\obj\Debug\2DSpriteGameDX.csprojAssemblyReference.cache
+D:\Styding\4 семестр\CourseProject\2DSpriteGame\2DSpriteGameDX\obj\Debug\_2DSpriteGameDX.Properties.Resources.resources
+D:\Styding\4 семестр\CourseProject\2DSpriteGame\2DSpriteGameDX\obj\Debug\2DSpriteGameDX.csproj.GenerateResource.cache
+D:\Styding\4 семестр\CourseProject\2DSpriteGame\2DSpriteGameDX\obj\Debug\2DSpriteGameDX.csproj.CoreCompileInputs.cache
+D:\Styding\4 семестр\CourseProject\2DSpriteGame\2DSpriteGameDX\obj\Debug\2DSpriteGameDX.csproj.CopyComplete
+D:\Styding\4 семестр\CourseProject\2DSpriteGame\2DSpriteGameDX\obj\Debug\2DSpriteGameDX.exe
+D:\Styding\4 семестр\CourseProject\2DSpriteGame\2DSpriteGameDX\obj\Debug\2DSpriteGameDX.pdb
+D:\Styding\4 семестр\CourseHelp\2DSpriteGame\2DSpriteGameDX\bin\Debug\background.bmp
+D:\Styding\4 семестр\CourseHelp\2DSpriteGame\2DSpriteGameDX\bin\Debug\dash.bmp
+D:\Styding\4 семестр\CourseHelp\2DSpriteGame\2DSpriteGameDX\bin\Debug\2DSpriteGameDX.exe.config
+D:\Styding\4 семестр\CourseHelp\2DSpriteGame\2DSpriteGameDX\bin\Debug\2DSpriteGameDX.exe
+D:\Styding\4 семестр\CourseHelp\2DSpriteGame\2DSpriteGameDX\bin\Debug\2DSpriteGameDX.pdb
+D:\Styding\4 семестр\CourseHelp\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.Desktop.dll
+D:\Styding\4 семестр\CourseHelp\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.Direct2D1.dll
+D:\Styding\4 семестр\CourseHelp\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.DirectInput.dll
+D:\Styding\4 семестр\CourseHelp\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.dll
+D:\Styding\4 семестр\CourseHelp\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.DXGI.dll
+D:\Styding\4 семестр\CourseHelp\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.Mathematics.dll
+D:\Styding\4 семестр\CourseHelp\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.pdb
+D:\Styding\4 семестр\CourseHelp\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.Desktop.pdb
+D:\Styding\4 семестр\CourseHelp\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.Desktop.xml
+D:\Styding\4 семестр\CourseHelp\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.Direct2D1.pdb
+D:\Styding\4 семестр\CourseHelp\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.Direct2D1.xml
+D:\Styding\4 семестр\CourseHelp\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.DirectInput.pdb
+D:\Styding\4 семестр\CourseHelp\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.DirectInput.xml
+D:\Styding\4 семестр\CourseHelp\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.DXGI.pdb
+D:\Styding\4 семестр\CourseHelp\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.DXGI.xml
+D:\Styding\4 семестр\CourseHelp\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.Mathematics.pdb
+D:\Styding\4 семестр\CourseHelp\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.Mathematics.xml
+D:\Styding\4 семестр\CourseHelp\2DSpriteGame\2DSpriteGameDX\obj\Debug\2DSpriteGameDX.csprojAssemblyReference.cache
+D:\Styding\4 семестр\CourseHelp\2DSpriteGame\2DSpriteGameDX\obj\Debug\_2DSpriteGameDX.Properties.Resources.resources
+D:\Styding\4 семестр\CourseHelp\2DSpriteGame\2DSpriteGameDX\obj\Debug\2DSpriteGameDX.csproj.GenerateResource.cache
+D:\Styding\4 семестр\CourseHelp\2DSpriteGame\2DSpriteGameDX\obj\Debug\2DSpriteGameDX.csproj.CoreCompileInputs.cache
+D:\Styding\4 семестр\CourseHelp\2DSpriteGame\2DSpriteGameDX\obj\Debug\2DSpriteGameDX.csproj.CopyComplete
+D:\Styding\4 семестр\CourseHelp\2DSpriteGame\2DSpriteGameDX\obj\Debug\2DSpriteGameDX.exe
+D:\Styding\4 семестр\CourseHelp\2DSpriteGame\2DSpriteGameDX\obj\Debug\2DSpriteGameDX.pdb
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameDX\bin\Debug\background.bmp
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameDX\bin\Debug\dash.bmp
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameDX\bin\Debug\2DSpriteGameDX.exe.config
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameDX\bin\Debug\2DSpriteGameDX.exe
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameDX\bin\Debug\2DSpriteGameDX.pdb
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameDX\bin\Debug\2DSpriteGameLib.dll
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameDX\bin\Debug\GameLib.dll
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.Desktop.dll
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.Direct2D1.dll
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.DirectInput.dll
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.dll
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.DXGI.dll
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.Mathematics.dll
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameDX\bin\Debug\2DSpriteGameLib.pdb
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameDX\bin\Debug\GameLib.pdb
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.pdb
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.Desktop.pdb
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.Desktop.xml
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.Direct2D1.pdb
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.Direct2D1.xml
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.DirectInput.pdb
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.DirectInput.xml
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.DXGI.pdb
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.DXGI.xml
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.Mathematics.pdb
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.Mathematics.xml
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameDX\obj\Debug\2DSpriteGameDX.csprojAssemblyReference.cache
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameDX\obj\Debug\_2DSpriteGameDX.Properties.Resources.resources
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameDX\obj\Debug\2DSpriteGameDX.csproj.GenerateResource.cache
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameDX\obj\Debug\2DSpriteGameDX.csproj.CoreCompileInputs.cache
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameDX\obj\Debug\2DSpriteGameDX.csproj.CopyComplete
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameDX\obj\Debug\2DSpriteGameDX.exe
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameDX\obj\Debug\2DSpriteGameDX.pdb

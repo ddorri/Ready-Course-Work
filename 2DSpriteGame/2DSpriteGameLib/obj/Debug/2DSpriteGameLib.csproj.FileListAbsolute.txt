@@ -1,0 +1,17 @@
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameLib\bin\Debug\2DSpriteGameLib.dll
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameLib\bin\Debug\2DSpriteGameLib.pdb
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameLib\bin\Debug\SharpDX.dll
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameLib\bin\Debug\SharpDX.pdb
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameLib\bin\Debug\SharpDX.Direct2D1.dll
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameLib\bin\Debug\SharpDX.Direct2D1.pdb
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameLib\bin\Debug\SharpDX.DXGI.dll
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameLib\bin\Debug\SharpDX.DXGI.pdb
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameLib\bin\Debug\SharpDX.Mathematics.dll
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameLib\bin\Debug\SharpDX.Mathematics.pdb
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameLib\bin\Debug\GameLib.dll
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameLib\bin\Debug\GameLib.pdb
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameLib\obj\Debug\2DSpriteGameLib.csprojAssemblyReference.cache
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameLib\obj\Debug\2DSpriteGameLib.csproj.CoreCompileInputs.cache
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameLib\obj\Debug\2DSpriteGameLib.csproj.CopyComplete
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameLib\obj\Debug\2DSpriteGameLib.dll
+D:\Styding\TETRIS\2DSpriteGame\2DSpriteGameLib\obj\Debug\2DSpriteGameLib.pdb

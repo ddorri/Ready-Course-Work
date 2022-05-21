@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_2DSpriteGameDX.DInput">
+    <Position X="6.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAASACAAAAgAFACAAAAQAAABEEEAAAAEIEECA=</HashCode>
+      <FileName>DInput.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_directInput" />
+      <Field Name="_keyboard" />
+      <Field Name="_mouse" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="_2DSpriteGameDX.Direct2DApp">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <AssociationLine Name="_dash" Type="_2DSpriteGameDX.Sprite">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="4.095" Y="0.654" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AADAgAAEACAAAEAAAQIAgAACEAAAAAAAAAAgAQAEICI=</HashCode>
+      <FileName>Direct2DApp.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_renderForm" />
+      <Field Name="_dx2d" />
+      <Field Name="_dInput" />
+      <Field Name="_timeHelper" />
+      <Field Name="_dash" />
+      <Property Name="RenderForm" />
+      <Property Name="DX2D" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="_2DSpriteGameDX.DX2D">
+    <Position X="11.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEYAAACACCAAgAEIAAACAVAAAAAgABAIAACAAEAIAA=</HashCode>
+      <FileName>DX2D.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_factory" />
+      <Field Name="_writeFactory" />
+      <Field Name="_imagingFactory" />
+      <Field Name="_bitmaps" />
+      <Property Name="Bitmaps" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="_2DSpriteGameDX.Sprite">
+    <Position X="16.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAABCAAAACAAgAQAAAAgQAAABAIAAgAAEAAAQEAAAA=</HashCode>
+      <FileName>Sprite.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_dx2d" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="_2DSpriteGameDX.TimeHelper">
+    <Position X="8.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwAgAAEEAAgBAAAAAAAAAAQAAAAAAAAAAEAAAgAEQA=</HashCode>
+      <FileName>TimeHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SharpDX.Windows.RenderForm" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Collections.Generic.List&lt;T&gt;" Collapsed="true">
+    <Position X="14" Y="8.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SharpDX.DirectInput.DirectInput" Collapsed="true">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="SharpDX.DirectInput.Keyboard" Collapsed="true">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="SharpDX.DirectInput.Mouse" Collapsed="true">
+    <Position X="2.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="SharpDX.Direct2D1.Factory" Collapsed="true">
+    <Position X="14.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="SharpDX.WIC.ImagingFactory" Collapsed="true">
+    <Position X="14.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="SharpDX.DirectWrite.Factory" Collapsed="true">
+    <Position X="14.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

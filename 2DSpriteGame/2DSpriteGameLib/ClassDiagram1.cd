@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_2DSpriteGameLib.Figure2D" Collapsed="true">
+    <Position X="7.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAQAAAAAAAAgAAAAAAAAAAAAAgAACACAgAAAAAA=</HashCode>
+      <FileName>Figure2D.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="_2DSpriteGameLib.ZFigure2D" Collapsed="true">
+    <Position X="7.5" Y="6" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Figure2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2DSpriteGameLib.FactoryFigure2D">
+    <Position X="7.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Figure2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2DSpriteGameLib.FactoryZFigure2D">
+    <Position X="7.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Figure2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2DSpriteGameLib.OFigure2D" Collapsed="true">
+    <Position X="5.75" Y="6" Width="1.5" />
+    <InheritanceLine Type="_2DSpriteGameLib.Figure2D" FixedFromPoint="true">
+      <Path>
+        <Point X="8.25" Y="5.441" />
+        <Point X="8.25" Y="5.7" />
+        <Point X="6.5" Y="5.7" />
+        <Point X="6.5" Y="6" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Figure2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2DSpriteGameLib.IFigure2D" Collapsed="true">
+    <Position X="11" Y="6" Width="1.5" />
+    <InheritanceLine Type="_2DSpriteGameLib.Figure2D" FixedFromPoint="true">
+      <Path>
+        <Point X="8.25" Y="5.441" />
+        <Point X="8.25" Y="5.7" />
+        <Point X="11.75" Y="5.7" />
+        <Point X="11.75" Y="6" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Figure2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2DSpriteGameLib.SFigure2D" Collapsed="true">
+    <Position X="4" Y="6" Width="1.5" />
+    <InheritanceLine Type="_2DSpriteGameLib.Figure2D" FixedFromPoint="true">
+      <Path>
+        <Point X="8.25" Y="5.441" />
+        <Point X="8.25" Y="5.7" />
+        <Point X="4.75" Y="5.7" />
+        <Point X="4.75" Y="6" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Figure2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2DSpriteGameLib.LFigure2D" Collapsed="true">
+    <Position X="2.25" Y="6" Width="1.5" />
+    <InheritanceLine Type="_2DSpriteGameLib.Figure2D" FixedFromPoint="true">
+      <Path>
+        <Point X="8.25" Y="5.441" />
+        <Point X="8.25" Y="5.7" />
+        <Point X="3" Y="5.7" />
+        <Point X="3" Y="6" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Figure2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2DSpriteGameLib.JFigure2D" Collapsed="true">
+    <Position X="9.25" Y="6" Width="1.5" />
+    <InheritanceLine Type="_2DSpriteGameLib.Figure2D" FixedFromPoint="true">
+      <Path>
+        <Point X="8.25" Y="5.441" />
+        <Point X="8.25" Y="5.7" />
+        <Point X="10" Y="5.7" />
+        <Point X="10" Y="6" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Figure2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2DSpriteGameLib.TFigure2D" Collapsed="true">
+    <Position X="12.75" Y="6" Width="1.5" />
+    <InheritanceLine Type="_2DSpriteGameLib.Figure2D" FixedFromPoint="true">
+      <Path>
+        <Point X="8.25" Y="5.441" />
+        <Point X="8.25" Y="5.7" />
+        <Point X="13.5" Y="5.7" />
+        <Point X="13.5" Y="6" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Figure2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2DSpriteGameLib.FactoryOFigure2D">
+    <Position X="5.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Figure2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2DSpriteGameLib.FactoryIFigure2D">
+    <Position X="11" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Figure2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2DSpriteGameLib.FactorySFigure2D">
+    <Position X="4" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Figure2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2DSpriteGameLib.FactoryLFigure2D">
+    <Position X="2.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Figure2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2DSpriteGameLib.FactoryJFigure2D">
+    <Position X="9.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Figure2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2DSpriteGameLib.FactoryTFigure2D">
+    <Position X="12.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Figure2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

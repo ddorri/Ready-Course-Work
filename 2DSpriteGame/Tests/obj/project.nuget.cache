@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "YsOyvcqhYJ7LMSysQQLscDHck8meCkF93mu9Ne0RjTofDQO2ZR9oheOeoLsy4Fz/IIiUT0u9I0lgD2uwATCuRQ==",
+  "success": true,
+  "projectFilePath": "D:\\Styding\\TETRIS\\2DSpriteGame\\Tests\\Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\XXX\\.nuget\\packages\\mstest.testadapter\\2.1.2\\mstest.testadapter.2.1.2.nupkg.sha512",
+    "C:\\Users\\XXX\\.nuget\\packages\\mstest.testframework\\2.1.2\\mstest.testframework.2.1.2.nupkg.sha512",
+    "C:\\Users\\XXX\\.nuget\\packages\\sharpdx\\4.2.0\\sharpdx.4.2.0.nupkg.sha512",
+    "C:\\Users\\XXX\\.nuget\\packages\\sharpdx.direct2d1\\4.2.0\\sharpdx.direct2d1.4.2.0.nupkg.sha512",
+    "C:\\Users\\XXX\\.nuget\\packages\\sharpdx.dxgi\\4.2.0\\sharpdx.dxgi.4.2.0.nupkg.sha512",
+    "C:\\Users\\XXX\\.nuget\\packages\\sharpdx.mathematics\\4.2.0\\sharpdx.mathematics.4.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
